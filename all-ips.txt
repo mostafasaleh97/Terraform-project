@@ -1,0 +1,12 @@
+privte-ip1: 10.0.3.193
+public-ip1: 50.18.30.251
+public-ip2: 18.144.41.11
+privte-ip2: 10.0.4.77
+public-ip2: 3.101.110.168
+privte-ip1: 10.0.3.249
+privte-ip2: 10.0.4.28
+public-ip1: 54.241.143.53
+public-ip1: 50.18.235.199
+privte-ip2: 10.0.4.140
+privte-ip1: 10.0.3.78
+public-ip2: 13.56.236.98
